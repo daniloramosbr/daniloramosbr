@@ -39,7 +39,7 @@ const danilo = {
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Banco de dados:
-![Postgres](https://img.shields.io/badge/postgressql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testes
@@ -56,7 +56,6 @@ const danilo = {
  ## 
 <div style="display:flex" align="center">
   <a href="https://github.com/daniloramosbr">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniloramosbr&theme=nightowl&count_private=true&show_icons=true&hide_border=false" alt="danilo github stats" /> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniloramosbr&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
    </div>
