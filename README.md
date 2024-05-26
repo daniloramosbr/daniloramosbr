@@ -19,7 +19,6 @@ const danilo = {
 ```
 ## Linguagem e Ferramentas
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github&logoColor=white)
 
@@ -56,8 +55,8 @@ const danilo = {
  ## 
 <div style="display:flex" align="center">
   <a href="https://github.com/daniloramosbr">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NinaS23&theme=nightowl&count_private=true&show_icons=true&hide_border=false" alt="danilo github stats" /> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NinaS23&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniloramosbr&theme=nightowl&count_private=true&show_icons=true&hide_border=false" alt="danilo github stats" /> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniloramosbr&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
    </div>
  <p align="center">
