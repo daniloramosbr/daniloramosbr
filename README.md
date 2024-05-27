@@ -36,7 +36,7 @@ const danilo = {
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Banco de dados:
-![Postgre](https://img.shields.io/badge/postgre-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgre-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testes:
