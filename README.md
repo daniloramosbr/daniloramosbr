@@ -46,7 +46,7 @@ const danilo = {
 ### Ferramentas:
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github&logoColor=white)
-![GITHUBPAGES](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github-pages&logoColor=white)
+![GITHUBPAGES](https://camo.githubusercontent.com/c938ca8e10524948531e21087ef468133da306ea76815ef81cadecd4e0d90a2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d2532333844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b)
 
 ### 📩 Contato
 
