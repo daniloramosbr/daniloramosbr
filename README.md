@@ -1,4 +1,4 @@
-
+  
 <h1 align='center'>Olá, Eu sou o Danilo!</h1>
 <p align='center'>
 </p>
@@ -17,7 +17,7 @@ const danilo = {
   }
 }
 ```
-## Linguagens
+## Linguagens:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -36,12 +36,17 @@ const danilo = {
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Banco de dados:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgre](https://img.shields.io/badge/postgre-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Testes
+### Testes:
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### Ferramentas:
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github&logoColor=white)
+![GITHUBPAGES](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github-pages&logoColor=white)
 
 ### 📩 Contato
 
