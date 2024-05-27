@@ -17,11 +17,9 @@ const danilo = {
   }
 }
 ```
-## Linguagem e Ferramentas
+## Linguagens
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github&logoColor=white)
 
 ### Front-End:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
