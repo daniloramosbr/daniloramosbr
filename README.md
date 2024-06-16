@@ -26,8 +26,10 @@ const danilo = {
 ![Next](https://img.shields.io/badge/next-%2320232a.svg?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/tailwind-%2320232a.svg?style=for-the-badge&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass)
+![NextUI](https://img.shields.io/badge/nextui-%2320232a.svg?style=for-the-badge&logo=next%20ui)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ### Back-End:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
