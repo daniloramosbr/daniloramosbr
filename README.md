@@ -12,7 +12,7 @@ const danilo = {
   idade: "20 anos",
   nacionalidade: "Brasileira",
   sobre: {
-      dev: "Descobri minha paixão por programação em 2023",
+      dev: "Descobri minha paixão por programação em janeiro de 2023",
       objetivo: "meu objetivo é usar tecnologia para contribuir na vida das pessoas da melhor forma"
   }
 }
@@ -42,7 +42,6 @@ const danilo = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testes:
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Ferramentas:
