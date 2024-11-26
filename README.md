@@ -44,10 +44,11 @@ const danilo = {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Ferramentas:
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
-![ESLIONT](https://camo.githubusercontent.com/9f4268803442f14ba048f49d8a6ac594465d6a61682f3048fddf18540196d38f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333236333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465)
+![ESLINT](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![NODEMON](https://camo.githubusercontent.com/47c19e619cdc5eeb986d993819ec64b0721716c3b77e880bd6e722acb6ef1f48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e4f44454d4f4e2d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d25424244454144)
 ![VITE](https://camo.githubusercontent.com/3a15a92b116b1afb31a0ccaab1eedc0b09251b6f0f5b149ba91d488ae6a47ad3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465)
 ![NPM](https://camo.githubusercontent.com/493fd98f1623ad1d4334077fa0187634a45a788899e57154e7ea821c115a1d7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
