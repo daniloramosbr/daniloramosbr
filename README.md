@@ -45,6 +45,7 @@ const danilo = {
 
 ### Ferramentas:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
