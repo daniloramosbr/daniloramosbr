@@ -54,7 +54,7 @@ const danilo = {
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![VERCEL](https://camo.githubusercontent.com/fb4d7b8ce21a0cdb7e8e12110b17945aaadc68872bcde15244ac81d64c74913e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e454e562d4543443533462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f74656e76266c6f676f436f6c6f723d626c61636b)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![AXIOS](https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=AXIOS)
 ![jwt](https://img.shields.io/badge/jwt-%2320232a.svg?style=for-the-badge&logo=jwt)
 ![ism](https://img.shields.io/badge/insomnia-%2320232a.svg?style=for-the-badge&logo=jwt)
