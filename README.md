@@ -8,7 +8,6 @@
 
 ```javascript
 const danilo = {
-  pronomes: "ele" | "dele",
   idade: "20 anos",
   nacionalidade: "Brasileira",
   sobre: {
