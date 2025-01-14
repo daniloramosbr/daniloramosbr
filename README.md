@@ -8,7 +8,7 @@
 
 ```javascript
 const danilo = {
-  idade: "20 anos",
+  idade: "21 anos",
   nacionalidade: "Brasileira",
   sobre: {
       dev: "Descobri minha paixão por programação em janeiro de 2023",
